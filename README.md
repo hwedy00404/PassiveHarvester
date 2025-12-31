@@ -58,6 +58,12 @@ Advanced Passive Harvester is a professional-grade Burp Suite extension designed
 
 ## UI Overview
 
+
+https://github.com/user-attachments/assets/291e94a6-3606-4868-bd21-502b1bcd91f5
+
+
+
+
 The extension provides a clean and functional tab in Burp Suite:
 *   **Title and Statistics**: At the top, you'll find the extension title and a real-time summary of harvested parameters, categorized by score (High, Medium, Low).
 *   **Main Log Area**: The central text area displays discovered parameters, their score, source (e.g., `json_key`, `html_attr`), the URL where they were found, and suggested mutations. High-value parameters are highlighted for easy identification.
